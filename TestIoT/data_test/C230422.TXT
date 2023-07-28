@@ -1,0 +1,7 @@
+{"Timestamp":"2022-04-23 21:16:04","CycleTime":0.000000,"OpenTime":0.000000,"Mode":1,"CounterShot":1,"MoldID":"NotConfigured","SetCycle":0.000000}
+{"Timestamp":"2022-04-23 21:16:16","CycleTime":31.819953,"OpenTime":0.000000,"Mode":1,"CounterShot":2,"MoldID":"NotConfigured","SetCycle":0.000000}
+{"Timestamp":"2022-04-23 21:16:48","CycleTime":0.589778,"OpenTime":0.000000,"Mode":1,"CounterShot":3,"MoldID":"NotConfigured","SetCycle":0.000000}
+{"Timestamp":"2022-04-23 21:16:48","CycleTime":0.740040,"OpenTime":0.000000,"Mode":1,"CounterShot":4,"MoldID":"NotConfigured","SetCycle":0.000000}
+{"Timestamp":"2022-04-23 21:16:49","CycleTime":2.529901,"OpenTime":0.000000,"Mode":1,"CounterShot":5,"MoldID":"NotConfigured","SetCycle":0.000000}
+{"Timestamp":"2022-04-23 21:16:52","CycleTime":1.189865,"OpenTime":0.000000,"Mode":1,"CounterShot":6,"MoldID":"NotConfigured","SetCycle":0.000000}
+{"Timestamp":"2022-04-23 21:24:09","CycleTime":0.000000,"OpenTime":0.000000,"Mode":1,"CounterShot":1,"MoldID":"NotConfigured","SetCycle":0.000000}
